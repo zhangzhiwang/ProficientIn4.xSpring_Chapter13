@@ -1,0 +1,66 @@
+2019-04-04 13:03:13  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:03:13 CST 2019]; root of context hierarchy
+2019-04-04 13:03:13  [ main:38 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:03:14  [ main:316 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:03:14  [ main:322 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:03:25  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:03:25 CST 2019]; root of context hierarchy
+2019-04-04 13:03:25  [ main:41 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:03:25  [ main:324 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:03:25  [ main:330 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:06:08  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:06:08 CST 2019]; root of context hierarchy
+2019-04-04 13:06:08  [ main:40 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:06:08  [ main:329 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:06:08  [ main:335 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:07:06  [ main:1 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:07:06 CST 2019]; root of context hierarchy
+2019-04-04 13:07:06  [ main:39 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:07:06  [ main:307 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:07:06  [ main:313 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:11:09  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2890c451: startup date [Thu Apr 04 13:11:09 CST 2019]; root of context hierarchy
+2019-04-04 13:11:09  [ main:60 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:11:10  [ main:425 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:11:10  [ main:433 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:11:10  [ main:1057 ] - [ INFO ]  Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2019-04-04 13:11:10  [ main:1109 ] - [ INFO ]  SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2019-04-04 13:11:42  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:11:42 CST 2019]; root of context hierarchy
+2019-04-04 13:11:42  [ main:39 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:11:42  [ main:326 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:11:42  [ main:332 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:14:54  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:14:54 CST 2019]; root of context hierarchy
+2019-04-04 13:14:54  [ main:42 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:14:54  [ main:326 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:14:54  [ main:331 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:35:47  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:35:47 CST 2019]; root of context hierarchy
+2019-04-04 13:35:47  [ main:39 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:35:47  [ main:314 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:35:47  [ main:319 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:35:47  [ main:840 ] - [ INFO ]  Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2019-04-04 13:35:47  [ main:881 ] - [ INFO ]  SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2019-04-04 13:36:29  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:36:29 CST 2019]; root of context hierarchy
+2019-04-04 13:36:29  [ main:37 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:36:29  [ main:309 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:36:29  [ main:314 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:36:29  [ main:818 ] - [ INFO ]  Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2019-04-04 13:36:29  [ main:856 ] - [ INFO ]  SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2019-04-04 13:36:47  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:36:47 CST 2019]; root of context hierarchy
+2019-04-04 13:36:47  [ main:44 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:36:48  [ main:315 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:36:48  [ main:320 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:36:48  [ main:833 ] - [ INFO ]  Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2019-04-04 13:36:48  [ main:872 ] - [ INFO ]  SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2019-04-04 13:37:32  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:37:32 CST 2019]; root of context hierarchy
+2019-04-04 13:37:32  [ main:39 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:37:33  [ main:321 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:37:33  [ main:327 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:37:33  [ main:856 ] - [ INFO ]  Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2019-04-04 13:37:33  [ main:894 ] - [ INFO ]  SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2019-04-04 13:39:45  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:39:45 CST 2019]; root of context hierarchy
+2019-04-04 13:39:45  [ main:40 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:39:46  [ main:316 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:39:46  [ main:322 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:39:57  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:39:57 CST 2019]; root of context hierarchy
+2019-04-04 13:39:57  [ main:39 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:39:58  [ main:312 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:39:58  [ main:318 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-04 13:55:38  [ main:0 ] - [ INFO ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@67117f44: startup date [Thu Apr 04 13:55:38 CST 2019]; root of context hierarchy
+2019-04-04 13:55:38  [ main:40 ] - [ INFO ]  Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-04 13:55:38  [ main:309 ] - [ INFO ]  Loading properties file from class path resource [db.properties]
+2019-04-04 13:55:38  [ main:315 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
